@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/profile"
+        android:title="Profile" android:icon="@drawable/profile_black_24dp"/>
+
+    <item android:id="@+id/diets"
+        android:title="Diets" android:icon="@drawable/diets_black_24dp"/>
+
+    <item android:id="@+id/bmi"
+        android:title="Calculate BMI" android:icon="@drawable/bmi_black_24dp"/>
+
+    <item android:id="@+id/exercise"
+        android:title="Exercise" android:icon="@drawable/exercise_black_24dp"/>
+
+    <item android:id="@+id/dietecian"
+        android:title="Dietacians" android:icon="@drawable/dietecians_black_24dp"/>
+
+    <item android:id="@+id/nutrition"
+        android:title="Nutrition Section" android:icon="@drawable/nutrition_black_24dp"/>
+
+    <item android:id="@+id/logout"
+        android:title="Logout" android:icon="@drawable/logout_black_24dp"/>
+
+
+</menu>
